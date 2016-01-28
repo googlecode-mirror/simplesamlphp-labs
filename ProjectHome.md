@@ -1,0 +1,1 @@
+A repository for new ideas and experiements in the form of SimpleSAMLphp modules. These may or may not be included as part of the simpleSAMLphp repository in the future.
